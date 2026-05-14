@@ -8,7 +8,7 @@
 
 /* Background */
 body {
-  background: url('background.jpg') center/cover no-repeat fixed;
+  background: url('background.jpg') center/cover no-repeat;
   color: white;
 }
 
